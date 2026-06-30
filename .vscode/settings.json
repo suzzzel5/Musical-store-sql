@@ -1,0 +1,26 @@
+{
+     "sqltools.connections": [
+          {
+               "ssh": "Disabled",
+               "previewLimit": 50,
+               "server": "localhost",
+               "port": 5432,
+               "driver": "PostgreSQL",
+               "name": "PostgreSQL Local",
+               "database": "musical_database",
+               "username": "postgres",
+               "password": "sujal"
+          },
+          {
+               "ssh": "Disabled",
+               "previewLimit": 50,
+               "server": "localhost",
+               "port": 5432,
+               "driver": "PostgreSQL",
+               "name": "PostgreSQL Local",
+               "database": "muscial_database",
+               "username": "postgres",
+               "password": "sujal"
+          }
+     ]
+}
